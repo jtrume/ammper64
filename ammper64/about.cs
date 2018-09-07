@@ -25,6 +25,7 @@ namespace ammper64
         private void about_Load(object sender, EventArgs e)
         {
             lbl_ver.Text = Application.ProductVersion;
+
         }
     }
 }
